@@ -1,0 +1,1094 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.667982,139.71153 ]
+    },
+    "properties": {
+    "name":"�Ƃ񂩂܂���",
+    "description":"��150-0001�@�����s�a�J��_�{�O�S���ڂW�|�T "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.710969,139.797472 ]
+    },
+    "properties": {
+    "name":"�_�J�o�[",
+    "description":"��111-0032�@�����s�䓌��󑐂P���ڂP�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.695586,139.698653 ]
+    },
+    "properties": {
+    "name":"�ˉ������V�h�{�X",
+    "description":"��160-0023�@�����s�V�h�搼�V�h�V���ڂQ�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.672114,139.770825 ]
+    },
+    "properties": {
+    "name":"�A���W�F���[�i",
+    "description":"��104-0061�@�����s���������R���ڂQ�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.675539,139.766647 ]
+    },
+    "properties": {
+    "name":"�΂߂�",
+    "description":"��104-0061�@�����s���������P���ڂQ�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68257,139.775588 ]
+    },
+    "properties": {
+    "name":"�����߂�����",
+    "description":"��103-0027�@�����s��������{���P���ڂP�Q�|�P�O "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.707987,139.666494 ]
+    },
+    "properties": {
+    "name":"�t����{�X",
+    "description":"��164-0001�@�����s����撆��T���ڂT�W�|�P�|�Q�O�Q "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.690843,139.706058 ]
+    },
+    "properties": {
+    "name":"�j�ԝf�ˊ�����Ё^���L�X",
+    "description":"��160-0022�@�����s�V�h��V�h�R���ڂV�|�Q "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.645924,139.713229 ]
+    },
+    "properties": {
+    "name":"�L���J�c�b����{�X",
+    "description":"��150-0013�@�����s�a�J��b����S���ڂX�|�T�|�P�O�T "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.700647,139.74232 ]
+    },
+    "properties": {
+    "name":"�I�̑P",
+    "description":"��162-0825�@�����s�V�h��_�y��P���ڂP�Q�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.661166,139.716144 ]
+    },
+    "properties": {
+    "name":"�u���[�m�[�g����",
+    "description":"��107-0062�@�����s�`���R�U���ڂR�|�P�U "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68232,139.786632 ]
+    },
+    "properties": {
+    "name":"���C�����p�[�N�z�e��",
+    "description":"��103-0014�@�����s��������{���a�k���Q���ڂP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.615967,139.257253 ]
+    },
+    "properties": {
+    "name":"���������R",
+    "description":"��193-0846�@�����s�����q�s���쒬�R�S�Q�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.655631,139.706421 ]
+    },
+    "properties": {
+    "name":"�R���Ώa�J�X",
+    "description":"��150-0002�@�����s�a�J��a�J�R���ڂP�R�|�V "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.684977,139.78291 ]
+    },
+    "properties": {
+    "name":"�ʂЂ�",
+    "description":"��103-0013�@�����s��������{���l�`���P���ڂP�V�|�P�O "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.690788,139.703411 ]
+    },
+    "properties": {
+    "name":"�V�Ղ�V�h�Ȕ��^���{�X",
+    "description":"��160-0022�@�����s�V�h��V�h�R���ڂR�P�|�W "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.64986,139.712067 ]
+    },
+    "properties": {
+    "name":"��\\��Ƃ񂱂��[����",
+    "description":"��150-0012�@�����s�a�J��L���P���ڂP�|�R�U "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.691642,139.73881 ]
+    },
+    "properties": {
+    "name":"��i�����s���J�{�X",
+    "description":"��102-0074�@�����s���c���i��S���ڂV�|�P�U "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.669768,139.703559 ]
+    },
+    "properties": {
+    "name":"��B����񂪂猴�h�X",
+    "description":"��150-0001�@�����s�a�J��_�{�O�P���ڂP�R�|�Q�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.674052,139.767216 ]
+    },
+    "properties": {
+    "name":"�L���t�F�{�����",
+    "description":"��104-0061�@�����s���������Q���ڂT�|�S "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.672307,139.766467 ]
+    },
+    "properties": {
+    "name":"�}���A�[�W���E�t���[������{�X",
+    "description":"��104-0061�@�����s���������T���ڂU�|�U "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.691857,139.702186 ]
+    },
+    "properties": {
+    "name":"������В������{�X",
+    "description":"��160-0022�@�����s�V�h��V�h�R���ڂQ�U�|�P�R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.64849,139.699368 ]
+    },
+    "properties": {
+    "name":"�J�t�F�E�~�P�����W�F��",
+    "description":"��150-0033�@�����s�a�J�扎�y���Q�X�|�R "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.642918,139.699063 ]
+    },
+    "properties": {
+    "name":"���ъ�",
+    "description":"��153-0051�@�����s�ڍ����ڍ��Q���ڂU�|�S "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.659039,139.696869 ]
+    },
+    "properties": {
+    "name":"��y",
+    "description":"��150-0043�@�����s�a�J�擹����Q���ڂP�V�|�U "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.625902,139.726186 ]
+    },
+    "properties": {
+    "name":"�L�B�s��ܔ��c�X",
+    "description":"��141-0022�@�����s�i��擌�ܔ��c�P���ڂQ�P�|�P�O "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.66663,139.747828 ]
+    },
+    "properties": {
+    "name":"�Ճm��悩�낤",
+    "description":"��105-0001�@�����s�`��Ճm��R���ڂW�|�Q "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.624409,139.723342 ]
+    },
+    "properties": {
+    "name":"�V����i�^�ܔ��c�X",
+    "description":"��141-0031�@�����s�i��搼�ܔ��c�P���ڂP�P�|�X�|�a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.673219,139.760848 ]
+    },
+    "properties": {
+    "name":"�R�J���X�g�����L�y��",
+    "description":"��100-0006�@�����s���c��L�y���P���ڂP�P�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.670777,139.764999 ]
+    },
+    "properties": {
+    "name":"������C�I���f�h�m�y�`�o�k�`�b�d�X",
+    "description":"��104-0061�@�����s���������T���ڂW�|�P�|�a�Q�e "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.693024,139.695239 ]
+    },
+    "properties": {
+    "name":"�n�V���X�p�Q�b�e�B�V�h�쑺�r���X",
+    "description":"��163-0590�@�����s�V�h�搼�V�h�P���ڂQ�U�|�Q�|�Q�P�X�a "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.686359,139.700303 ]
+    },
+    "properties": {
+    "name":"���c�}�z�e���Z���`�����[�T�U���^���[",
+    "description":"��151-0053�@�����s�a�J���X�؂Q���ڂQ�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.608288,139.668841 ]
+    },
+    "properties": {
+    "name":"�����u����",
+    "description":"��152-0035�@�����s�ڍ��掩�R���u�P���ڂQ�X�|�R "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.612721,139.666475 ]
+    },
+    "properties": {
+    "name":"�����T���N���[��",
+    "description":"��152-0035�@�����s�ڍ��掩�R���u�Q���ڂQ�Q�|�S "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.670124,139.767193 ]
+    },
+    "properties": {
+    "name":"�i�C�����X�g����",
+    "description":"��104-0061�@�����s���������S���ڂP�O�|�V "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.664171,139.731483 ]
+    },
+    "properties": {
+    "name":"�ꗖ�Z�{�ؑ�]�ː��w��X",
+    "description":"��106-0032�@�����s�`��Z�{�؂S���ڂP�P�|�P�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.659975,139.704406 ]
+    },
+    "properties": {
+    "name":"���P���^�{�v��X",
+    "description":"��150-0002�@�����s�a�J��a�J�P���ڂP�Q�|�P�Q "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.694396,139.702126 ]
+    },
+    "properties": {
+    "name":"�ǂ��Ƃ�ڂ�_���̕��꒬�X",
+    "description":"��160-0021�@�����s�V�h��̕��꒬�P���ڂP�S�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67515,139.768596 ]
+    },
+    "properties": {
+    "name":"����꒚�^����{�X",
+    "description":"��104-0061�@�����s���������P���ڂQ�|�R "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.676627,139.735399 ]
+    },
+    "properties": {
+    "name":"���낽��",
+    "description":"��107-0052�@�����s�`��ԍ�S���ڂP�|�S "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.665076,139.7137 ]
+    },
+    "properties": {
+    "name":"�L���E�t�F�E�{���R",
+    "description":"��107-0062�@�����s�`���R�R���ڂP�W�|�T"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.660815,139.728281 ]
+    },
+    "properties": {
+    "name":"�s�n�q�`�x�`�b�`�e�d�Z�{�؃q���Y�X",
+    "description":"��106-0032�@�����s�`��Z�{�؂U���ڂP�Q�|�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.691329,139.693664 ]
+    },
+    "properties": {
+    "name":"�V�Y���[�^�V�h�O��r���X",
+    "description":"��163-0402�@�����s�V�h�搼�V�h�Q���ڂP�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.693212,139.702115 ]
+    },
+    "properties": {
+    "name":"�����V�_",
+    "description":"��160-0023�@�����s�V�h�搼�V�h�V���ڂP�T�|�P�V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.698917,139.744525 ]
+    },
+    "properties": {
+    "name":"�t�ѓc���X",
+    "description":"��102-0071�@�����s���c��x�m���Q���ڂP�Q�|�P�U�|�P�O�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.700802,139.770678 ]
+    },
+    "properties": {
+    "name":"��B����񂪂�^�H�t���{�X",
+    "description":"��101-0021�@�����s���c��O�_�c�R���ڂP�P�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.671925,139.765281 ]
+    },
+    "properties": {
+    "name":"���J��",
+    "description":"��104-0061�@�����s���������Q���ڂS�|�P�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.712938,139.793827 ]
+    },
+    "properties": {
+    "name":"���V�J�~",
+    "description":"��111-0032�@�����s�䓌��󑐂P���ڂS�P�|�S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.743326,139.713646 ]
+    },
+    "properties": {
+    "name":"�~���L�[�E�G�C�����X",
+    "description":"��170-0013�@�����s�L���擌�r�܂P���ڂP�Q�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.668468,139.76127 ]
+    },
+    "properties": {
+    "name":"�v���q",
+    "description":"��104-0061�@�����s���������W���ڂV�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.662109,139.743667 ]
+    },
+    "properties": {
+    "name":"���W�h��Ղ̖�{�X",
+    "description":"��105-0001�@�����s�`��Ճm��R���ڂW�|�Q�S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.690877,139.705272 ]
+    },
+    "properties": {
+    "name":"�e�B�L�e�B�L�V�h�X",
+    "description":"��160-0022�@�����s�V�h��V�h�R���ڂS�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.712745,139.795585 ]
+    },
+    "properties": {
+    "name":"�单�ƓV�n��",
+    "description":"��111-0032�@�����s�䓌��󑐂P���ڂR�P�|�X"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.705057,139.622389 ]
+    },
+    "properties": {
+    "name":"�t�؉����E�{�X",
+    "description":"��167-0043�@�����s������㉬�P���ڂS�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.664949,139.762605 ]
+    },
+    "properties": {
+    "name":"�C�זL�J���b�^�����X",
+    "description":"��105-0021�@�����s�`�擌�V���P���ڂW�|�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.646083,139.706101 ]
+    },
+    "properties": {
+    "name":"�A�}�|�[���b����X",
+    "description":"��150-0022�@�����s�a�J��b�����R���ڂP�|�Q�S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.672114,139.770825 ]
+    },
+    "properties": {
+    "name":"���������{�X",
+    "description":"��104-0061�@�����s���������R���ڂT�|�P�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.66523,139.714894 ]
+    },
+    "properties": {
+    "name":"�N�A�E�A�C�i",
+    "description":"��107-0062�@�����s�`���R�T���ڂP�O�|�Q�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.56007,139.721994 ]
+    },
+    "properties": {
+    "name":"�j�[�n�I",
+    "description":"��144-0052�@�����s��c�抗�c�S���ڂQ�T�|�V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.646038,139.707669 ]
+    },
+    "properties": {
+    "name":"�`������",
+    "description":"��150-0022�@�����s�a�J��b�����P���ڂQ�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.627055,139.772605 ]
+    },
+    "properties": {
+    "name":"�|���̎��A�N�A�V�e�B�����X",
+    "description":"��135-0091�@�����s�`����P���ڂV�|�P�|�q�T�P�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.659058,139.667333 ]
+    },
+    "properties": {
+    "name":"�L�q�̉����^���k��X",
+    "description":"��155-0032�@�����s���c�J����T���ڂR�U�|�P�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.663365,139.668332 ]
+    },
+    "properties": {
+    "name":"�L����Ѓ}�W�b�N�X�p�C�X",
+    "description":"��155-0031 �����s���c�J��k��P���ڂS�O�|�P�T"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65983,139.6954 ]
+    },
+    "properties": {
+    "name":"�a�J�O�\\�ܒi��",
+    "description":"��150-0044�@�����s�a�J��~�R���P�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.727395,139.711722 ]
+    },
+    "properties": {
+    "name":"���˒r�ܓ����{�X",
+    "description":"��171-0022�@�����s�L�����r�܂P���ڂP�W�|�Q�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.703922,139.579158 ]
+    },
+    "properties": {
+    "name":"������",
+    "description":"��180-0004 �����s������s�g�ˎ��{���P���ڂP?�P?�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67626,139.644004 ]
+    },
+    "properties": {
+    "name":"�叟��",
+    "description":"��168-0063�@�����s������a��R���ڂT�|�R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.641948,139.713316 ]
+    },
+    "properties": {
+    "name":"��[�b����K�[�f���v���C�X�x�X",
+    "description":"��150-6038�@�����s�a�J��b����S���ڂQ�O�|�R�O"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.658244,139.699048 ]
+    },
+    "properties": {
+    "name":"�r�A�[�h�p�p�̍�肽�čH�[�^�a�J���}�����X",
+    "description":"��150-0043�@�����s�a�J�擹����P���ڂP�Q�|�R "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.611385,139.669819 ]
+    },
+    "properties": {
+    "name":"���R���u���[����",
+    "description":"��152-0035�@�����s�ڍ��掩�R���u�P���ڂQ�R�|�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.703644,139.575332 ]
+    },
+    "properties": {
+    "name":"���B���b�W���@���K�[�h�_�C�i�[�g�ˎ��X",
+    "description":"��180-0004�@�����s������s�g�ˎ��{���Q���ڂQ�O�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68268,139.774334 ]
+    },
+    "properties": {
+    "name":"���]���J�C�U�[���{���X",
+    "description":"��103-0027�@�����s��������{���P���ڂS�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.698415,139.772285 ]
+    },
+    "properties": {
+    "name":"���̖����^�{�X ",
+    "description":"��101-0041�@�����s���c��_�c�{�c���Q���ڂQ�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.664193,139.711304 ]
+    },
+    "properties": {
+    "name":"���E���]���E�f���E�V���R���\\�Q���X",
+    "description":"��107-0061�@�����s�`��k�R�R���ڂP�O�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.712123,139.798492 ]
+    },
+    "properties": {
+    "name":"������Д~��",
+    "description":"��111-0032�@�����s�䓌��󑐂P���ڂR�P�|�P�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.668746,139.7123 ]
+    },
+    "properties": {
+    "name":"�J�t�F�N���[�v���[�E���E�u���^�[�j���\\�Q���X",
+    "description":"��150-0001�@�����s�a�J��_�{�O�R���ڂT�|�S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.691175,139.757178 ]
+    },
+    "properties": {
+    "name":"�ԍ�ѓX�^�p���X�T�C�h�x�X",
+    "description":"��100-0003�@�����s���c���c���P���ڂP�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.697034,139.768648 ]
+    },
+    "properties": {
+    "name":"�L����Ђ�Ԃ��ΐ_�c�{�X",
+    "description":"��101-0063�@�����s���c��_�c�W�H���Q���ڂP�O"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.695554,139.758599 ]
+    },
+    "properties": {
+    "name":"���ڂ���",
+    "description":"��101-0051�@�����s���c��_�c�_�ے��P���ڂP�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.68474,139.761 ]
+    },
+    "properties": {
+    "name":"�p���X�z�e������",
+    "description":"��100-0005�@�����s���c��ۂ̓��P���ڂP�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.623903,139.719143 ]
+    },
+    "properties": {
+    "name":"�Ƃ��",
+    "description":"��141-0031�@�����s�i��搼�ܔ��c�V���ڂT�|�R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.666634,139.708071 ]
+    },
+    "properties": {
+    "name":"�o���u�[",
+    "description":"��150-0001�@�����s�a�J��_�{�O�T���ڂW�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.648664,139.713197 ]
+    },
+    "properties": {
+    "name":"�ꕗ���b����X",
+    "description":"��150-0012�@�����s�a�J��L���P���ڂR�|�P�Q�|�P�O�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.731408,139.710514 ]
+    },
+    "properties": {
+    "name":"�ԃ`��",
+    "description":"��171-0022�@�����s�L�����r�܂Q���ڂQ�U�|�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6544,139.333755 ]
+    },
+    "properties": {
+    "name":"�딭���[����",
+    "description":"��192-0903�@�����s�����q�s�����P�X�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.623405,139.424837 ]
+    },
+    "properties": {
+    "name":"�����v���U�z�e������",
+    "description":"��206-0033�@�����s�����s�����P���ڂS�R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.645344,139.711835 ]
+    },
+    "properties": {
+    "name":"�����X�[���J�t�F�b���",
+    "description":"��150-0013�@�����s�a�J��b����S���ڂS�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.709005,139.590717 ]
+    },
+    "properties": {
+    "name":"�p�e�B�X���[�E�A�e�X�E�F�C",
+    "description":"��180-0002�@�����s������s�g�ˎ������R���ڂW�|�W"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.680696,139.763781 ]
+    },
+    "properties": {
+    "name":"�j�t�`�E�`�h�m�`�ۃr���X",
+    "description":"��100-6305�@�����s���c��ۂ̓��Q���ڂS�|�P "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.667505,139.706281 ]
+    },
+    "properties": {
+    "name":"���܂⌴�h�{�X",
+    "description":"��150-0001�@�����s�a�J��_�{�O�U���ڂP�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.673572,139.769106 ]
+    },
+    "properties": {
+    "name":"�ߖ十����X",
+    "description":"��104-0061�@�����s���������P���ڂP�O�|�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.671322,139.764501 ]
+    },
+    "properties": {
+    "name":"����}�l�P��",
+    "description":"��104-0061�@�����s���������T���ڂV�|�P�X"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.633634,139.714229 ]
+    },
+    "properties": {
+    "name":"�Ƃ�",
+    "description":"��153-0064�@�����s�ڍ��扺�ڍ��P���ڂP�|�Q"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65754,139.708198 ]
+    },
+    "properties": {
+    "name":"�J�v���`���[�U�a�J�{�X",
+    "description":"��150-0011�@�����s�a�J�擌�P���ڂR�|�P"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67332,139.768183 ]
+    },
+    "properties": {
+    "name":"������ЃA�����E�V�����p���e�B�G����{�X",
+    "description":"��104-0061�@�����s���������Q���ڂW�|�Q�O"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.660381,139.667464 ]
+    },
+    "properties": {
+    "name":"���i���R�[�h",
+    "description":"��155-0031�@�����s���c�J��k��Q���ڂP�R�|�T"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.625547,139.724891 ]
+    },
+    "properties": {
+    "name":"�y�ԓy�ԁE�ܔ��c�����X",
+    "description":"��141-0022�@�����s�i��擌�ܔ��c�Q���ڂQ�|�P�U"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.695101,139.757662 ]
+    },
+    "properties": {
+    "name":"�}���_��",
+    "description":"��101-0051�@�����s���c��_�c�_�ے��Q���ڂP�V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.732412,139.705369 ]
+    },
+    "properties": {
+    "name":"��[�߂�� �r�ܓX",
+    "description":"��171-0014 �����s�L����r�܂Q?�P�X?�R �V�@�r��"
+    }
+  }
+]
+}

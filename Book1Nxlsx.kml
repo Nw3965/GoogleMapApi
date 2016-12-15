@@ -1,0 +1,5042 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Book1N.xlsx</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.71153<br>
+<b>Latitude:</b> 35.667982<br>
+<b>Name:</b> とんかつまい泉<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒150-0001　東京都渋谷区神宮前４丁目８－５<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 675<br>
+<b>Revenue:</b> 675<br>
+<b>Patrons:</b> 2
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.71153</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.667982</value>
+				</Data>
+				<Data name='Name'>
+					<value>とんかつまい泉</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0001　東京都渋谷区神宮前４丁目８－５</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>675</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>675</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>2</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.71153,35.667982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.797472<br>
+<b>Latitude:</b> 35.710969<br>
+<b>Name:</b> 神谷バー<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒111-0032　東京都台東区浅草１丁目１－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 241<br>
+<b>Revenue:</b> 241<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.797472</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.710969</value>
+				</Data>
+				<Data name='Name'>
+					<value>神谷バー</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒111-0032　東京都台東区浅草１丁目１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>241</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>241</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.797472,35.710969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.698653<br>
+<b>Latitude:</b> 35.695586<br>
+<b>Name:</b> 麺屋武蔵新宿本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒160-0023　東京都新宿区西新宿７丁目２－６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 675<br>
+<b>Revenue:</b> 675<br>
+<b>Patrons:</b> 45
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.698653</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.695586</value>
+				</Data>
+				<Data name='Name'>
+					<value>麺屋武蔵新宿本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0023　東京都新宿区西新宿７丁目２－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>675</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>675</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>45</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.698653,35.695586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.770825<br>
+<b>Latitude:</b> 35.672114<br>
+<b>Name:</b> アンジェリーナ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座３丁目２－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 111<br>
+<b>Revenue:</b> 111<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.770825</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.672114</value>
+				</Data>
+				<Data name='Name'>
+					<value>アンジェリーナ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座３丁目２－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>111</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>111</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.770825,35.672114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.766647<br>
+<b>Latitude:</b> 35.675539<br>
+<b>Name:</b> つばめや<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座１丁目２－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 423<br>
+<b>Revenue:</b> 423<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.766647</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.675539</value>
+				</Data>
+				<Data name='Name'>
+					<value>つばめや</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座１丁目２－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>423</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>423</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.766647,35.675539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.775588<br>
+<b>Latitude:</b> 35.68257<br>
+<b>Name:</b> たいめいけん<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒103-0027　東京都中央区日本橋１丁目１２－１０<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 412<br>
+<b>Revenue:</b> 412<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.775588</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.68257</value>
+				</Data>
+				<Data name='Name'>
+					<value>たいめいけん</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒103-0027　東京都中央区日本橋１丁目１２－１０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>412</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>412</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.775588,35.68257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.666494<br>
+<b>Latitude:</b> 35.707987<br>
+<b>Name:</b> 青葉中野本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒164-0001　東京都中野区中野５丁目５８－１－２０２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 868<br>
+<b>Revenue:</b> 868<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.666494</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.707987</value>
+				</Data>
+				<Data name='Name'>
+					<value>青葉中野本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒164-0001　東京都中野区中野５丁目５８－１－２０２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>868</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>868</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.666494,35.707987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.706058<br>
+<b>Latitude:</b> 35.690843<br>
+<b>Name:</b> 桂花拉麺株式会社／末広店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒160-0022　東京都新宿区新宿３丁目７－２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 767<br>
+<b>Revenue:</b> 767<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.706058</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.690843</value>
+				</Data>
+				<Data name='Name'>
+					<value>桂花拉麺株式会社／末広店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0022　東京都新宿区新宿３丁目７－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>767</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>767</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.706058,35.690843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.713229<br>
+<b>Latitude:</b> 35.645924<br>
+<b>Name:</b> キムカツ恵比寿本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒150-0013　東京都渋谷区恵比寿４丁目９－５－１０５<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 454<br>
+<b>Revenue:</b> 454<br>
+<b>Patrons:</b> 23
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.713229</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.645924</value>
+				</Data>
+				<Data name='Name'>
+					<value>キムカツ恵比寿本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0013　東京都渋谷区恵比寿４丁目９－５－１０５</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>454</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>454</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>23</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.713229,35.645924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.74232<br>
+<b>Latitude:</b> 35.700647<br>
+<b>Name:</b> 紀の善<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒162-0825　東京都新宿区神楽坂１丁目１２－１<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 565<br>
+<b>Revenue:</b> 565<br>
+<b>Patrons:</b> 12
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.74232</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.700647</value>
+				</Data>
+				<Data name='Name'>
+					<value>紀の善</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒162-0825　東京都新宿区神楽坂１丁目１２－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>565</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>565</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.74232,35.700647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.716144<br>
+<b>Latitude:</b> 35.661166<br>
+<b>Name:</b> ブルーノート東京<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒107-0062　東京都港区南青山６丁目３－１６<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 566<br>
+<b>Revenue:</b> 566<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.716144</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.661166</value>
+				</Data>
+				<Data name='Name'>
+					<value>ブルーノート東京</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒107-0062　東京都港区南青山６丁目３－１６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>566</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>566</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.716144,35.661166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.786632<br>
+<b>Latitude:</b> 35.68232<br>
+<b>Name:</b> ロイヤルパークホテル<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒103-0014　東京都中央区日本橋蛎殻町２丁目１<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 544<br>
+<b>Revenue:</b> 544<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.786632</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.68232</value>
+				</Data>
+				<Data name='Name'>
+					<value>ロイヤルパークホテル</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒103-0014　東京都中央区日本橋蛎殻町２丁目１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>544</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>544</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.786632,35.68232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.257253<br>
+<b>Latitude:</b> 35.615967<br>
+<b>Name:</b> うかい鳥山<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒193-0846　東京都八王子市南浅川町３４２６<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 855<br>
+<b>Revenue:</b> 855<br>
+<b>Patrons:</b> 1
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.257253</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.615967</value>
+				</Data>
+				<Data name='Name'>
+					<value>うかい鳥山</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒193-0846　東京都八王子市南浅川町３４２６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>855</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>855</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>1</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.257253,35.615967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.706421<br>
+<b>Latitude:</b> 35.655631<br>
+<b>Name:</b> 山頭火渋谷店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒150-0002　東京都渋谷区渋谷３丁目１３－７<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 678<br>
+<b>Revenue:</b> 678<br>
+<b>Patrons:</b> 1
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.706421</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.655631</value>
+				</Data>
+				<Data name='Name'>
+					<value>山頭火渋谷店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0002　東京都渋谷区渋谷３丁目１３－７</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>678</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>678</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>1</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.706421,35.655631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.78291<br>
+<b>Latitude:</b> 35.684977<br>
+<b>Name:</b> 玉ひで<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒103-0013　東京都中央区日本橋人形町１丁目１７－１０<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 333<br>
+<b>Revenue:</b> 333<br>
+<b>Patrons:</b> 4
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.78291</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.684977</value>
+				</Data>
+				<Data name='Name'>
+					<value>玉ひで</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒103-0013　東京都中央区日本橋人形町１丁目１７－１０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>333</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>333</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.78291,35.684977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.703411<br>
+<b>Latitude:</b> 35.690788<br>
+<b>Name:</b> 天ぷら新宿つな八／総本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒160-0022　東京都新宿区新宿３丁目３１－８<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 553<br>
+<b>Revenue:</b> 553<br>
+<b>Patrons:</b> 23
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.703411</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.690788</value>
+				</Data>
+				<Data name='Name'>
+					<value>天ぷら新宿つな八／総本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0022　東京都新宿区新宿３丁目３１－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>553</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>553</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>23</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.703411,35.690788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.712067<br>
+<b>Latitude:</b> 35.64986<br>
+<b>Name:</b> 九十九とんこつラーメン<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒150-0012　東京都渋谷区広尾１丁目１－３６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 444<br>
+<b>Revenue:</b> 444<br>
+<b>Patrons:</b> 2
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.712067</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.64986</value>
+				</Data>
+				<Data name='Name'>
+					<value>九十九とんこつラーメン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0012　東京都渋谷区広尾１丁目１－３６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>444</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>444</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>2</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.712067,35.64986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.73881<br>
+<b>Latitude:</b> 35.691642<br>
+<b>Name:</b> 九段斑鳩市ヶ谷本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒102-0074　東京都千代田区九段南４丁目７－１６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 975<br>
+<b>Revenue:</b> 975<br>
+<b>Patrons:</b> 45
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.73881</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.691642</value>
+				</Data>
+				<Data name='Name'>
+					<value>九段斑鳩市ヶ谷本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒102-0074　東京都千代田区九段南４丁目７－１６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>975</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>975</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>45</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.73881,35.691642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.703559<br>
+<b>Latitude:</b> 35.669768<br>
+<b>Name:</b> 九州じゃんがら原宿店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒150-0001　東京都渋谷区神宮前１丁目１３－２１<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 455<br>
+<b>Revenue:</b> 455<br>
+<b>Patrons:</b> 4
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.703559</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.669768</value>
+				</Data>
+				<Data name='Name'>
+					<value>九州じゃんがら原宿店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0001　東京都渋谷区神宮前１丁目１３－２１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>455</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>455</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.703559,35.669768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.767216<br>
+<b>Latitude:</b> 35.674052<br>
+<b>Name:</b> キルフェボン銀座<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座２丁目５－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 444<br>
+<b>Revenue:</b> 444<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.767216</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.674052</value>
+				</Data>
+				<Data name='Name'>
+					<value>キルフェボン銀座</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座２丁目５－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>444</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>444</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.767216,35.674052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.766467<br>
+<b>Latitude:</b> 35.672307<br>
+<b>Name:</b> マリアージュ・フレール銀座本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座５丁目６－６<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 342<br>
+<b>Revenue:</b> 342<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.766467</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.672307</value>
+				</Data>
+				<Data name='Name'>
+					<value>マリアージュ・フレール銀座本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座５丁目６－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>342</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>342</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.766467,35.672307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.702186<br>
+<b>Latitude:</b> 35.691857<br>
+<b>Name:</b> 株式会社中村屋本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒160-0022　東京都新宿区新宿３丁目２６－１３<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 333<br>
+<b>Revenue:</b> 333<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.702186</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.691857</value>
+				</Data>
+				<Data name='Name'>
+					<value>株式会社中村屋本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0022　東京都新宿区新宿３丁目２６－１３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>333</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>333</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.702186,35.691857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.699368<br>
+<b>Latitude:</b> 35.64849<br>
+<b>Name:</b> カフェ・ミケランジェロ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0033　東京都渋谷区猿楽町２９－３<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 223<br>
+<b>Revenue:</b> 223<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.699368</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.64849</value>
+				</Data>
+				<Data name='Name'>
+					<value>カフェ・ミケランジェロ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0033　東京都渋谷区猿楽町２９－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>223</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>223</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.699368,35.64849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.699063<br>
+<b>Latitude:</b> 35.642918<br>
+<b>Name:</b> 聖林館<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒153-0051　東京都目黒区上目黒２丁目６－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 222<br>
+<b>Revenue:</b> 222<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.699063</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.642918</value>
+				</Data>
+				<Data name='Name'>
+					<value>聖林館</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒153-0051　東京都目黒区上目黒２丁目６－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>222</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>222</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.699063,35.642918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.696869<br>
+<b>Latitude:</b> 35.659039<br>
+<b>Name:</b> 喜楽<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒150-0043　東京都渋谷区道玄坂２丁目１７－６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 998<br>
+<b>Revenue:</b> 998<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.696869</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.659039</value>
+				</Data>
+				<Data name='Name'>
+					<value>喜楽</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0043　東京都渋谷区道玄坂２丁目１７－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>998</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>998</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.696869,35.659039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-4'>
+			<IconStyle>
+				<color>ffee48e3</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-4-hover'>
+			<IconStyle>
+				<color>ffee48e3</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.726186<br>
+<b>Latitude:</b> 35.625902<br>
+<b>Name:</b> 広州市場五反田店<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒141-0022　東京都品川区東五反田１丁目２１－１０<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 342<br>
+<b>Revenue:</b> 342<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.726186</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.625902</value>
+				</Data>
+				<Data name='Name'>
+					<value>広州市場五反田店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒141-0022　東京都品川区東五反田１丁目２１－１０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>342</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>342</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.726186,35.625902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.747828<br>
+<b>Latitude:</b> 35.66663<br>
+<b>Name:</b> 虎ノ門よかろう<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒105-0001　東京都港区虎ノ門３丁目８－２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 421<br>
+<b>Revenue:</b> 421<br>
+<b>Patrons:</b> 4
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.747828</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.66663</value>
+				</Data>
+				<Data name='Name'>
+					<value>虎ノ門よかろう</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒105-0001　東京都港区虎ノ門３丁目８－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>421</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>421</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.747828,35.66663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.723342<br>
+<b>Latitude:</b> 35.624409<br>
+<b>Name:</b> 天下一品／五反田店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒141-0031　東京都品川区西五反田１丁目１１－９－Ｂ<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 453<br>
+<b>Revenue:</b> 453<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.723342</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.624409</value>
+				</Data>
+				<Data name='Name'>
+					<value>天下一品／五反田店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒141-0031　東京都品川区西五反田１丁目１１－９－Ｂ</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>453</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>453</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.723342,35.624409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.764999<br>
+<b>Latitude:</b> 35.670777<br>
+<b>Name:</b> 銀座ライオンＧＩＮＺＡＰＬＡＣＥ店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座５丁目８－１－Ｂ２Ｆ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 453<br>
+<b>Revenue:</b> 453<br>
+<b>Patrons:</b> 34
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.764999</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.670777</value>
+				</Data>
+				<Data name='Name'>
+					<value>銀座ライオンＧＩＮＺＡＰＬＡＣＥ店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座５丁目８－１－Ｂ２Ｆ</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>453</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>453</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>34</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.764999,35.670777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.695239<br>
+<b>Latitude:</b> 35.693024<br>
+<b>Name:</b> ハシヤスパゲッティ新宿野村ビル店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒163-0590　東京都新宿区西新宿１丁目２６－２－２１９Ｂ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 312<br>
+<b>Revenue:</b> 312<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.695239</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.693024</value>
+				</Data>
+				<Data name='Name'>
+					<value>ハシヤスパゲッティ新宿野村ビル店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒163-0590　東京都新宿区西新宿１丁目２６－２－２１９Ｂ</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>312</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>312</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.695239,35.693024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.700303<br>
+<b>Latitude:</b> 35.686359<br>
+<b>Name:</b> 小田急ホテルセンチュリーサザンタワー<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒151-0053　東京都渋谷区代々木２丁目２－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 534<br>
+<b>Revenue:</b> 534<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.700303</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.686359</value>
+				</Data>
+				<Data name='Name'>
+					<value>小田急ホテルセンチュリーサザンタワー</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒151-0053　東京都渋谷区代々木２丁目２－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>534</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>534</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.700303,35.686359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.668841<br>
+<b>Latitude:</b> 35.608288<br>
+<b>Name:</b> モンブラン<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒152-0035　東京都目黒区自由が丘１丁目２９－３<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 21<br>
+<b>Revenue:</b> 21<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.668841</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.608288</value>
+				</Data>
+				<Data name='Name'>
+					<value>モンブラン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒152-0035　東京都目黒区自由が丘１丁目２９－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>21</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>21</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.668841,35.608288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.666475<br>
+<b>Latitude:</b> 35.612721<br>
+<b>Name:</b> モンサンクレール<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒152-0035　東京都目黒区自由が丘２丁目２２－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 53<br>
+<b>Revenue:</b> 53<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.666475</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.612721</value>
+				</Data>
+				<Data name='Name'>
+					<value>モンサンクレール</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒152-0035　東京都目黒区自由が丘２丁目２２－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>53</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>53</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.666475,35.612721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.731483<br>
+<b>Latitude:</b> 35.664171<br>
+<b>Name:</b> 一蘭六本木大江戸線駅上店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒106-0032　東京都港区六本木４丁目１１－１１<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 35<br>
+<b>Revenue:</b> 35<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.731483</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.664171</value>
+				</Data>
+				<Data name='Name'>
+					<value>一蘭六本木大江戸線駅上店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒106-0032　東京都港区六本木４丁目１１－１１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>35</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>35</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.731483,35.664171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.704406<br>
+<b>Latitude:</b> 35.659975<br>
+<b>Name:</b> ラケル／宮益坂店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0002　東京都渋谷区渋谷１丁目１２－１２<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 21<br>
+<b>Revenue:</b> 21<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.704406</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.659975</value>
+				</Data>
+				<Data name='Name'>
+					<value>ラケル／宮益坂店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0002　東京都渋谷区渋谷１丁目１２－１２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>21</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>21</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.704406,35.659975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.702126<br>
+<b>Latitude:</b> 35.694396<br>
+<b>Name:</b> どうとんぼり神座歌舞伎町店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒160-0021　東京都新宿区歌舞伎町１丁目１４－１<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 32<br>
+<b>Revenue:</b> 32<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.702126</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.694396</value>
+				</Data>
+				<Data name='Name'>
+					<value>どうとんぼり神座歌舞伎町店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0021　東京都新宿区歌舞伎町１丁目１４－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>32</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>32</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.702126,35.694396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.768596<br>
+<b>Latitude:</b> 35.67515<br>
+<b>Name:</b> 魚や一丁／銀座本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座１丁目２－３<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 213<br>
+<b>Revenue:</b> 213<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.768596</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.67515</value>
+				</Data>
+				<Data name='Name'>
+					<value>魚や一丁／銀座本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座１丁目２－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>213</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>213</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.768596,35.67515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.735399<br>
+<b>Latitude:</b> 35.676627<br>
+<b>Name:</b> しろたえ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒107-0052　東京都港区赤坂４丁目１－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 352<br>
+<b>Revenue:</b> 352<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.735399</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.676627</value>
+				</Data>
+				<Data name='Name'>
+					<value>しろたえ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒107-0052　東京都港区赤坂４丁目１－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>352</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>352</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.735399,35.676627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.7137<br>
+<b>Latitude:</b> 35.665076<br>
+<b>Name:</b> キル・フェ・ボン青山<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒107-0062　東京都港区南青山３丁目１８－５<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 356<br>
+<b>Revenue:</b> 356<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.7137</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.665076</value>
+				</Data>
+				<Data name='Name'>
+					<value>キル・フェ・ボン青山</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒107-0062　東京都港区南青山３丁目１８－５</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>356</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>356</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.7137,35.665076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.728281<br>
+<b>Latitude:</b> 35.660815<br>
+<b>Name:</b> ＴＯＲＡＹＡＣＡＦＥ六本木ヒルズ店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒106-0032　東京都港区六本木６丁目１２－２<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 322<br>
+<b>Revenue:</b> 322<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.728281</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.660815</value>
+				</Data>
+				<Data name='Name'>
+					<value>ＴＯＲＡＹＡＣＡＦＥ六本木ヒルズ店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒106-0032　東京都港区六本木６丁目１２－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>322</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>322</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.728281,35.660815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.693664<br>
+<b>Latitude:</b> 35.691329<br>
+<b>Name:</b> シズラー／新宿三井ビル店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒163-0402　東京都新宿区西新宿２丁目１－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 31<br>
+<b>Revenue:</b> 31<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.693664</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.691329</value>
+				</Data>
+				<Data name='Name'>
+					<value>シズラー／新宿三井ビル店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒163-0402　東京都新宿区西新宿２丁目１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>31</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>31</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.693664,35.691329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.702115<br>
+<b>Latitude:</b> 35.693212<br>
+<b>Name:</b> 博多天神<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒160-0023　東京都新宿区西新宿７丁目１５－１７<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 21<br>
+<b>Revenue:</b> 21<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.702115</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.693212</value>
+				</Data>
+				<Data name='Name'>
+					<value>博多天神</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0023　東京都新宿区西新宿７丁目１５－１７</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>21</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>21</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.702115,35.693212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.744525<br>
+<b>Latitude:</b> 35.698917<br>
+<b>Name:</b> 青葉飯田橋店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒102-0071　東京都千代田区富士見２丁目１２－１６－１０６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 221<br>
+<b>Revenue:</b> 221<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.744525</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.698917</value>
+				</Data>
+				<Data name='Name'>
+					<value>青葉飯田橋店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒102-0071　東京都千代田区富士見２丁目１２－１６－１０６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>221</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>221</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.744525,35.698917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.770678<br>
+<b>Latitude:</b> 35.700802<br>
+<b>Name:</b> 九州じゃんがら／秋葉原本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒101-0021　東京都千代田区外神田３丁目１１－６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 223<br>
+<b>Revenue:</b> 223<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.770678</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.700802</value>
+				</Data>
+				<Data name='Name'>
+					<value>九州じゃんがら／秋葉原本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒101-0021　東京都千代田区外神田３丁目１１－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>223</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>223</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.770678,35.700802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.765281<br>
+<b>Latitude:</b> 35.671925<br>
+<b>Name:</b> レカン<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座２丁目４－１２<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 231<br>
+<b>Revenue:</b> 231<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.765281</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.671925</value>
+				</Data>
+				<Data name='Name'>
+					<value>レカン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座２丁目４－１２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>231</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>231</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.765281,35.671925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.793827<br>
+<b>Latitude:</b> 35.712938<br>
+<b>Name:</b> ヨシカミ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒111-0032　東京都台東区浅草１丁目４１－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 231<br>
+<b>Revenue:</b> 231<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.793827</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.712938</value>
+				</Data>
+				<Data name='Name'>
+					<value>ヨシカミ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒111-0032　東京都台東区浅草１丁目４１－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>231</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>231</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.793827,35.712938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.713646<br>
+<b>Latitude:</b> 35.743326<br>
+<b>Name:</b> ミルキーウエイ東口店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒170-0013　東京都豊島区東池袋１丁目１２－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 232<br>
+<b>Revenue:</b> 232<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.713646</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.743326</value>
+				</Data>
+				<Data name='Name'>
+					<value>ミルキーウエイ東口店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒170-0013　東京都豊島区東池袋１丁目１２－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>232</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>232</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.713646,35.743326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.76127<br>
+<b>Latitude:</b> 35.668468<br>
+<b>Name:</b> 久兵衛<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座８丁目７－６<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 555<br>
+<b>Revenue:</b> 555<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.76127</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.668468</value>
+				</Data>
+				<Data name='Name'>
+					<value>久兵衛</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座８丁目７－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>555</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>555</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.76127,35.668468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.743667<br>
+<b>Latitude:</b> 35.662109<br>
+<b>Name:</b> 岡埜栄泉虎の門本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒105-0001　東京都港区虎ノ門３丁目８－２４<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 546<br>
+<b>Revenue:</b> 546<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.743667</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.662109</value>
+				</Data>
+				<Data name='Name'>
+					<value>岡埜栄泉虎の門本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒105-0001　東京都港区虎ノ門３丁目８－２４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>546</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>546</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.743667,35.662109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.705272<br>
+<b>Latitude:</b> 35.690877<br>
+<b>Name:</b> ティキティキ新宿店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒160-0022　東京都新宿区新宿３丁目４－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 56<br>
+<b>Revenue:</b> 56<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.705272</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.690877</value>
+				</Data>
+				<Data name='Name'>
+					<value>ティキティキ新宿店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒160-0022　東京都新宿区新宿３丁目４－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>56</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>56</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.705272,35.690877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.795585<br>
+<b>Latitude:</b> 35.712745<br>
+<b>Name:</b> 大黒家天麩羅<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒111-0032　東京都台東区浅草１丁目３１－９<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 464<br>
+<b>Revenue:</b> 464<br>
+<b>Patrons:</b> 66
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.795585</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.712745</value>
+				</Data>
+				<Data name='Name'>
+					<value>大黒家天麩羅</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒111-0032　東京都台東区浅草１丁目３１－９</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>464</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>464</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>66</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.795585,35.712745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.622389<br>
+<b>Latitude:</b> 35.705057<br>
+<b>Name:</b> 春木屋荻窪本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒167-0043　東京都杉並区上荻１丁目４－６<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 765<br>
+<b>Revenue:</b> 765<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.622389</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.705057</value>
+				</Data>
+				<Data name='Name'>
+					<value>春木屋荻窪本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒167-0043　東京都杉並区上荻１丁目４－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>765</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>765</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.622389,35.705057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.762605<br>
+<b>Latitude:</b> 35.664949<br>
+<b>Name:</b> 鼎泰豊カレッタ汐留店<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒105-0021　東京都港区東新橋１丁目８－２<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 657<br>
+<b>Revenue:</b> 657<br>
+<b>Patrons:</b> 5
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.762605</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.664949</value>
+				</Data>
+				<Data name='Name'>
+					<value>鼎泰豊カレッタ汐留店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒105-0021　東京都港区東新橋１丁目８－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>657</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>657</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>5</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.762605,35.664949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.706101<br>
+<b>Latitude:</b> 35.646083<br>
+<b>Name:</b> アマポーラ恵比寿店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0022　東京都渋谷区恵比寿南３丁目１－２４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 675<br>
+<b>Revenue:</b> 675<br>
+<b>Patrons:</b> 56
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.706101</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.646083</value>
+				</Data>
+				<Data name='Name'>
+					<value>アマポーラ恵比寿店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0022　東京都渋谷区恵比寿南３丁目１－２４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>675</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>675</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.706101,35.646083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.770825<br>
+<b>Latitude:</b> 35.672114<br>
+<b>Name:</b> 煉瓦亭総本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座３丁目５－１６<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 57<br>
+<b>Revenue:</b> 57<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.770825</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.672114</value>
+				</Data>
+				<Data name='Name'>
+					<value>煉瓦亭総本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座３丁目５－１６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>57</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>57</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.770825,35.672114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.714894<br>
+<b>Latitude:</b> 35.66523<br>
+<b>Name:</b> クア・アイナ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒107-0062　東京都港区南青山５丁目１０－２１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 34<br>
+<b>Revenue:</b> 34<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.714894</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.66523</value>
+				</Data>
+				<Data name='Name'>
+					<value>クア・アイナ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒107-0062　東京都港区南青山５丁目１０－２１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>34</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>34</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.714894,35.66523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.721994<br>
+<b>Latitude:</b> 35.56007<br>
+<b>Name:</b> ニーハオ<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒144-0052　東京都大田区蒲田４丁目２５－７<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 435<br>
+<b>Revenue:</b> 435<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.721994</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.56007</value>
+				</Data>
+				<Data name='Name'>
+					<value>ニーハオ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒144-0052　東京都大田区蒲田４丁目２５－７</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>435</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>435</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.721994,35.56007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.707669<br>
+<b>Latitude:</b> 35.646038<br>
+<b>Name:</b> チャモロ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0022　東京都渋谷区恵比寿南１丁目２－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 343<br>
+<b>Revenue:</b> 343<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.707669</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.646038</value>
+				</Data>
+				<Data name='Name'>
+					<value>チャモロ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0022　東京都渋谷区恵比寿南１丁目２－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>343</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>343</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.707669,35.646038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.772605<br>
+<b>Latitude:</b> 35.627055<br>
+<b>Name:</b> ポムの樹アクアシティお台場店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒135-0091　東京都港区台場１丁目７－１－Ｒ５１２<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 564<br>
+<b>Revenue:</b> 564<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.772605</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.627055</value>
+				</Data>
+				<Data name='Name'>
+					<value>ポムの樹アクアシティお台場店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒135-0091　東京都港区台場１丁目７－１－Ｒ５１２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>564</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>564</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.772605,35.627055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.667333<br>
+<b>Latitude:</b> 35.659058<br>
+<b>Name:</b> 餃子の王将／下北沢店<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒155-0032　東京都世田谷区代沢５丁目３６－１６<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 423<br>
+<b>Revenue:</b> 423<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.667333</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.659058</value>
+				</Data>
+				<Data name='Name'>
+					<value>餃子の王将／下北沢店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒155-0032　東京都世田谷区代沢５丁目３６－１６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>423</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>423</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.667333,35.659058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.6954<br>
+<b>Latitude:</b> 35.65983<br>
+<b>Name:</b> 渋谷三十五段屋<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒150-0044　東京都渋谷区円山町１－１<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 672<br>
+<b>Revenue:</b> 672<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.6954</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.65983</value>
+				</Data>
+				<Data name='Name'>
+					<value>渋谷三十五段屋</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0044　東京都渋谷区円山町１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>672</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>672</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6954,35.65983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.711722<br>
+<b>Latitude:</b> 35.727395<br>
+<b>Name:</b> 光麺池袋東口本店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒171-0022　東京都豊島区南池袋１丁目１８－２２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 342<br>
+<b>Revenue:</b> 342<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.711722</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.727395</value>
+				</Data>
+				<Data name='Name'>
+					<value>光麺池袋東口本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒171-0022　東京都豊島区南池袋１丁目１８－２２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>342</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>342</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.711722,35.727395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.579158<br>
+<b>Latitude:</b> 35.703922<br>
+<b>Name:</b> 小ざさ<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒180-0004 東京都武蔵野市吉祥寺本町１丁目１?１?８<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 874<br>
+<b>Revenue:</b> 874<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.579158</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.703922</value>
+				</Data>
+				<Data name='Name'>
+					<value>小ざさ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒180-0004 東京都武蔵野市吉祥寺本町１丁目１?１?８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>874</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>874</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.579158,35.703922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.644004<br>
+<b>Latitude:</b> 35.67626<br>
+<b>Name:</b> 大勝軒<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒168-0063　東京都杉並区和泉３丁目５－３<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 146<br>
+<b>Revenue:</b> 146<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.644004</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.67626</value>
+				</Data>
+				<Data name='Name'>
+					<value>大勝軒</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒168-0063　東京都杉並区和泉３丁目５－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>146</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>146</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.644004,35.67626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.713316<br>
+<b>Latitude:</b> 35.641948<br>
+<b>Name:</b> 千房恵比寿ガーデンプレイス支店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒150-6038　東京都渋谷区恵比寿４丁目２０－３０<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 373<br>
+<b>Revenue:</b> 373<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.713316</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.641948</value>
+				</Data>
+				<Data name='Name'>
+					<value>千房恵比寿ガーデンプレイス支店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-6038　東京都渋谷区恵比寿４丁目２０－３０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>373</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>373</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.713316,35.641948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.699048<br>
+<b>Latitude:</b> 35.658244<br>
+<b>Name:</b> ビアードパパの作りたて工房／渋谷東急東横店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0043　東京都渋谷区道玄坂１丁目１２－３<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 179<br>
+<b>Revenue:</b> 179<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.699048</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.658244</value>
+				</Data>
+				<Data name='Name'>
+					<value>ビアードパパの作りたて工房／渋谷東急東横店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0043　東京都渋谷区道玄坂１丁目１２－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>179</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>179</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.699048,35.658244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.669819<br>
+<b>Latitude:</b> 35.611385<br>
+<b>Name:</b> 自由が丘ロール屋<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒152-0035　東京都目黒区自由が丘１丁目２３－２<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 368<br>
+<b>Revenue:</b> 368<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.669819</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.611385</value>
+				</Data>
+				<Data name='Name'>
+					<value>自由が丘ロール屋</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒152-0035　東京都目黒区自由が丘１丁目２３－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>368</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>368</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.669819,35.611385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.575332<br>
+<b>Latitude:</b> 35.703644<br>
+<b>Name:</b> ヴィレッジヴァンガードダイナー吉祥寺店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒180-0004　東京都武蔵野市吉祥寺本町２丁目２０－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 854<br>
+<b>Revenue:</b> 854<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.575332</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.703644</value>
+				</Data>
+				<Data name='Name'>
+					<value>ヴィレッジヴァンガードダイナー吉祥寺店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒180-0004　東京都武蔵野市吉祥寺本町２丁目２０－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>854</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>854</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.575332,35.703644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.774334<br>
+<b>Latitude:</b> 35.68268<br>
+<b>Name:</b> メゾンカイザー日本橋店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒103-0027　東京都中央区日本橋１丁目４－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 634<br>
+<b>Revenue:</b> 634<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.774334</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.68268</value>
+				</Data>
+				<Data name='Name'>
+					<value>メゾンカイザー日本橋店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒103-0027　東京都中央区日本橋１丁目４－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>634</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>634</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.774334,35.68268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.772285<br>
+<b>Latitude:</b> 35.698415<br>
+<b>Name:</b> 肉の万世／本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒101-0041　東京都千代田区神田須田町２丁目２１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 346<br>
+<b>Revenue:</b> 346<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.772285</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.698415</value>
+				</Data>
+				<Data name='Name'>
+					<value>肉の万世／本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒101-0041　東京都千代田区神田須田町２丁目２１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>346</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>346</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.772285,35.698415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.711304<br>
+<b>Latitude:</b> 35.664193<br>
+<b>Name:</b> ラ・メゾン・デュ・ショコラ表参道店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒107-0061　東京都港区北青山３丁目１０－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 213<br>
+<b>Revenue:</b> 213<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.711304</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.664193</value>
+				</Data>
+				<Data name='Name'>
+					<value>ラ・メゾン・デュ・ショコラ表参道店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒107-0061　東京都港区北青山３丁目１０－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>213</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>213</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.711304,35.664193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.798492<br>
+<b>Latitude:</b> 35.712123<br>
+<b>Name:</b> 株式会社梅園<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒111-0032　東京都台東区浅草１丁目３１－１１<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 766<br>
+<b>Revenue:</b> 766<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.798492</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.712123</value>
+				</Data>
+				<Data name='Name'>
+					<value>株式会社梅園</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒111-0032　東京都台東区浅草１丁目３１－１１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>766</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>766</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.798492,35.712123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.7123<br>
+<b>Latitude:</b> 35.668746<br>
+<b>Name:</b> カフェクレープリー・ル・ブルターニュ表参道店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0001　東京都渋谷区神宮前３丁目５－４<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 345<br>
+<b>Revenue:</b> 345<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.7123</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.668746</value>
+				</Data>
+				<Data name='Name'>
+					<value>カフェクレープリー・ル・ブルターニュ表参道店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0001　東京都渋谷区神宮前３丁目５－４</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>345</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>345</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.7123,35.668746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.757178<br>
+<b>Latitude:</b> 35.691175<br>
+<b>Name:</b> 赤坂飯店／パレスサイド支店<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒100-0003　東京都千代田区一ツ橋１丁目１－１<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 32<br>
+<b>Revenue:</b> 32<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.757178</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.691175</value>
+				</Data>
+				<Data name='Name'>
+					<value>赤坂飯店／パレスサイド支店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒100-0003　東京都千代田区一ツ橋１丁目１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>32</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>32</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.757178,35.691175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.768648<br>
+<b>Latitude:</b> 35.697034<br>
+<b>Name:</b> 有限会社やぶそば神田本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒101-0063　東京都千代田区神田淡路町２丁目１０<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 97<br>
+<b>Revenue:</b> 97<br>
+<b>Patrons:</b> 32
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.768648</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.697034</value>
+				</Data>
+				<Data name='Name'>
+					<value>有限会社やぶそば神田本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒101-0063　東京都千代田区神田淡路町２丁目１０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>97</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>97</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.768648,35.697034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.758599<br>
+<b>Latitude:</b> 35.695554<br>
+<b>Name:</b> さぼうる<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒101-0051　東京都千代田区神田神保町１丁目１１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 456<br>
+<b>Revenue:</b> 456<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.758599</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.695554</value>
+				</Data>
+				<Data name='Name'>
+					<value>さぼうる</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒101-0051　東京都千代田区神田神保町１丁目１１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>456</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>456</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.758599,35.695554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.761<br>
+<b>Latitude:</b> 35.68474<br>
+<b>Name:</b> パレスホテル東京<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒100-0005　東京都千代田区丸の内１丁目１－１<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 658<br>
+<b>Revenue:</b> 658<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.761</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.68474</value>
+				</Data>
+				<Data name='Name'>
+					<value>パレスホテル東京</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒100-0005　東京都千代田区丸の内１丁目１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>658</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>658</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.761,35.68474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.719143<br>
+<b>Latitude:</b> 35.623903<br>
+<b>Name:</b> とん金<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒141-0031　東京都品川区西五反田７丁目５－３<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 898<br>
+<b>Revenue:</b> 898<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.719143</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.623903</value>
+				</Data>
+				<Data name='Name'>
+					<value>とん金</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒141-0031　東京都品川区西五反田７丁目５－３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>898</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>898</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.719143,35.623903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.708071<br>
+<b>Latitude:</b> 35.666634<br>
+<b>Name:</b> バンブー<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0001　東京都渋谷区神宮前５丁目８－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 547<br>
+<b>Revenue:</b> 547<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.708071</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.666634</value>
+				</Data>
+				<Data name='Name'>
+					<value>バンブー</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0001　東京都渋谷区神宮前５丁目８－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>547</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>547</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.708071,35.666634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.713197<br>
+<b>Latitude:</b> 35.648664<br>
+<b>Name:</b> 一風堂恵比寿店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒150-0012　東京都渋谷区広尾１丁目３－１２－１０２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 686<br>
+<b>Revenue:</b> 686<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.713197</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.648664</value>
+				</Data>
+				<Data name='Name'>
+					<value>一風堂恵比寿店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0012　東京都渋谷区広尾１丁目３－１２－１０２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>686</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>686</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.713197,35.648664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.710514<br>
+<b>Latitude:</b> 35.731408<br>
+<b>Name:</b> 屯チン<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒171-0022　東京都豊島区南池袋２丁目２６－２<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 547<br>
+<b>Revenue:</b> 547<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.710514</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.731408</value>
+				</Data>
+				<Data name='Name'>
+					<value>屯チン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒171-0022　東京都豊島区南池袋２丁目２６－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>547</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>547</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.710514,35.731408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.333755<br>
+<b>Latitude:</b> 35.6544<br>
+<b>Name:</b> 壱発ラーメン<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒192-0903　東京都八王子市万町１９－１<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 879<br>
+<b>Revenue:</b> 879<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.333755</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.6544</value>
+				</Data>
+				<Data name='Name'>
+					<value>壱発ラーメン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒192-0903　東京都八王子市万町１９－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>879</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>879</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.333755,35.6544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.424837<br>
+<b>Latitude:</b> 35.623405<br>
+<b>Name:</b> 京王プラザホテル多摩<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒206-0033　東京都多摩市落合１丁目４３<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 756<br>
+<b>Revenue:</b> 756<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.424837</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.623405</value>
+				</Data>
+				<Data name='Name'>
+					<value>京王プラザホテル多摩</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒206-0033　東京都多摩市落合１丁目４３</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>756</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>756</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.424837,35.623405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.590717<br>
+<b>Latitude:</b> 35.709005<br>
+<b>Name:</b> パティスリー・アテスウェイ<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒180-0002　東京都武蔵野市吉祥寺東町３丁目８－８<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 867<br>
+<b>Revenue:</b> 867<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.590717</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.709005</value>
+				</Data>
+				<Data name='Name'>
+					<value>パティスリー・アテスウェイ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒180-0002　東京都武蔵野市吉祥寺東町３丁目８－８</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>867</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>867</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.590717,35.709005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.763781<br>
+<b>Latitude:</b> 35.680696<br>
+<b>Name:</b> ＫＵＡ・ＡＩＮＡ丸ビル店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒100-6305　東京都千代田区丸の内２丁目４－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 686<br>
+<b>Revenue:</b> 686<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.763781</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.680696</value>
+				</Data>
+				<Data name='Name'>
+					<value>ＫＵＡ・ＡＩＮＡ丸ビル店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒100-6305　東京都千代田区丸の内２丁目４－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>686</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>686</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.763781,35.680696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.706281<br>
+<b>Latitude:</b> 35.667505<br>
+<b>Name:</b> さつまや原宿本店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒150-0001　東京都渋谷区神宮前６丁目１－６<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 998<br>
+<b>Revenue:</b> 998<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.706281</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.667505</value>
+				</Data>
+				<Data name='Name'>
+					<value>さつまや原宿本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0001　東京都渋谷区神宮前６丁目１－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>998</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>998</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.706281,35.667505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chinase Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.769106<br>
+<b>Latitude:</b> 35.673572<br>
+<b>Name:</b> 過門香銀座店<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座１丁目１０－６<br>
+<b>Food specialty:</b> Chinase Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 354<br>
+<b>Revenue:</b> 354<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.769106</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.673572</value>
+				</Data>
+				<Data name='Name'>
+					<value>過門香銀座店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座１丁目１０－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Chinase Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>354</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>354</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.769106,35.673572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.764501<br>
+<b>Latitude:</b> 35.671322<br>
+<b>Name:</b> 銀座マネケン<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座５丁目７－１９<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 657<br>
+<b>Revenue:</b> 657<br>
+<b>Patrons:</b> 4
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.764501</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.671322</value>
+				</Data>
+				<Data name='Name'>
+					<value>銀座マネケン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座５丁目７－１９</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>657</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>657</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.764501,35.671322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.714229<br>
+<b>Latitude:</b> 35.633634<br>
+<b>Name:</b> とんき<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒153-0064　東京都目黒区下目黒１丁目１－２<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 325<br>
+<b>Revenue:</b> 325<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.714229</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.633634</value>
+				</Data>
+				<Data name='Name'>
+					<value>とんき</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒153-0064　東京都目黒区下目黒１丁目１－２</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>325</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>325</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.714229,35.633634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.708198<br>
+<b>Latitude:</b> 35.65754<br>
+<b>Name:</b> カプリチョーザ渋谷本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒150-0011　東京都渋谷区東１丁目３－１<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 685<br>
+<b>Revenue:</b> 685<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.708198</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.65754</value>
+				</Data>
+				<Data name='Name'>
+					<value>カプリチョーザ渋谷本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0011　東京都渋谷区東１丁目３－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>685</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>685</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.708198,35.65754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.768183<br>
+<b>Latitude:</b> 35.67332<br>
+<b>Name:</b> 株式会社アンリ・シャルパンティエ銀座本店<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座２丁目８－２０<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 789<br>
+<b>Revenue:</b> 789<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.768183</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.67332</value>
+				</Data>
+				<Data name='Name'>
+					<value>株式会社アンリ・シャルパンティエ銀座本店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座２丁目８－２０</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>789</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>789</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.768183,35.67332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Western cuisine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.667464<br>
+<b>Latitude:</b> 35.660381<br>
+<b>Name:</b> モナレコード<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Description:</b> 〒155-0031　東京都世田谷区北沢２丁目１３－５<br>
+<b>Food specialty:</b> Western cuisine<br>
+<b>Marker icon:</b> small_green<br>
+<b>Customers:</b> 980<br>
+<b>Revenue:</b> 980<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.667464</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.660381</value>
+				</Data>
+				<Data name='Name'>
+					<value>モナレコード</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒155-0031　東京都世田谷区北沢２丁目１３－５</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Western cuisine</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_green</value>
+				</Data>
+				<Data name='Customers'>
+					<value>980</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>980</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.667464,35.660381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Japanese Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.724891<br>
+<b>Latitude:</b> 35.625547<br>
+<b>Name:</b> 土間土間・五反田東口店<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Description:</b> 〒141-0022　東京都品川区東五反田２丁目２－１６<br>
+<b>Food specialty:</b> Japanese Restaurant<br>
+<b>Marker icon:</b> small_red<br>
+<b>Customers:</b> 688<br>
+<b>Revenue:</b> 688<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.724891</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.625547</value>
+				</Data>
+				<Data name='Name'>
+					<value>土間土間・五反田東口店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒141-0022　東京都品川区東五反田２丁目２－１６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Japanese Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_red</value>
+				</Data>
+				<Data name='Customers'>
+					<value>688</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>688</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.724891,35.625547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.705369<br>
+<b>Latitude:</b> 35.732412<br>
+<b>Name:</b> らーめん大 池袋店<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Description:</b> 〒171-0014 東京都豊島区池袋２?１９?３ 天宗ビル<br>
+<b>Food specialty:</b> Ramen<br>
+<b>Marker icon:</b> small_yellow<br>
+<b>Customers:</b> 688<br>
+<b>Revenue:</b> 688<br>
+<b>Patrons:</b> 1
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.705369</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.732412</value>
+				</Data>
+				<Data name='Name'>
+					<value>らーめん大 池袋店</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒171-0014 東京都豊島区池袋２?１９?３ 天宗ビル</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Ramen</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_yellow</value>
+				</Data>
+				<Data name='Customers'>
+					<value>688</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>688</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>1</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.705369,35.732412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asian Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.711835<br>
+<b>Latitude:</b> 35.645344<br>
+<b>Name:</b> モンスーンカフェ恵比寿<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Description:</b> 〒150-0013　東京都渋谷区恵比寿４丁目４－６<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Marker icon:</b> small_purple<br>
+<b>Customers:</b> 689<br>
+<b>Revenue:</b> 689<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.711835</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.645344</value>
+				</Data>
+				<Data name='Name'>
+					<value>モンスーンカフェ恵比寿</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒150-0013　東京都渋谷区恵比寿４丁目４－６</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Asian Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_purple</value>
+				</Data>
+				<Data name='Customers'>
+					<value>689</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>689</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.711835,35.645344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-5'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-5-hover'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-5-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-5-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Asian Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.760848<br>
+<b>Latitude:</b> 35.673219<br>
+<b>Name:</b> コカレストラン有楽町<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Description:</b> 〒100-0006　東京都千代田区有楽町１丁目１１－１<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Marker icon:</b> small_blue<br>
+<b>Customers:</b> 12<br>
+<b>Revenue:</b> 12<br>
+<b>Patrons:</b> 2
+</div>]]></description>
+			<styleUrl>#Style2-point-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.760848</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.673219</value>
+				</Data>
+				<Data name='Name'>
+					<value>コカレストラン有楽町</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒100-0006　東京都千代田区有楽町１丁目１１－１</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Asian Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='Customers'>
+					<value>12</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>12</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>2</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.760848,35.673219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asian Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.767193<br>
+<b>Latitude:</b> 35.670124<br>
+<b>Name:</b> ナイルレストラン<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Description:</b> 〒104-0061　東京都中央区銀座４丁目１０－７<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Marker icon:</b> small_blue<br>
+<b>Customers:</b> 241<br>
+<b>Revenue:</b> 241<br>
+<b>Patrons:</b> 3
+</div>]]></description>
+			<styleUrl>#Style2-point-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.767193</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.670124</value>
+				</Data>
+				<Data name='Name'>
+					<value>ナイルレストラン</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒104-0061　東京都中央区銀座４丁目１０－７</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Asian Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='Customers'>
+					<value>241</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>241</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.767193,35.670124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asian Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.668332<br>
+<b>Latitude:</b> 35.663365<br>
+<b>Name:</b> 有限会社マジックスパイス<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Description:</b> 〒155-0031 東京都世田谷区北沢１丁目４０－１５<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Marker icon:</b> small_blue<br>
+<b>Customers:</b> 296<br>
+<b>Revenue:</b> 296<br>
+<b>Patrons:</b> 6
+</div>]]></description>
+			<styleUrl>#Style2-point-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.668332</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.663365</value>
+				</Data>
+				<Data name='Name'>
+					<value>有限会社マジックスパイス</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒155-0031 東京都世田谷区北沢１丁目４０－１５</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Asian Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='Customers'>
+					<value>296</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>296</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>6</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.668332,35.663365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Asian Restaurant</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Longitude:</b> 139.757662<br>
+<b>Latitude:</b> 35.695101<br>
+<b>Name:</b> マンダラ<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Description:</b> 〒101-0051　東京都千代田区神田神保町２丁目１７<br>
+<b>Food specialty:</b> Asian Restaurant<br>
+<b>Marker icon:</b> small_blue<br>
+<b>Customers:</b> 686<br>
+<b>Revenue:</b> 686<br>
+<b>Patrons:</b> 7
+</div>]]></description>
+			<styleUrl>#Style2-point-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Longitude'>
+					<value>139.757662</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.695101</value>
+				</Data>
+				<Data name='Name'>
+					<value>マンダラ</value>
+				</Data>
+				<Data name='Description'>
+					<value>〒101-0051　東京都千代田区神田神保町２丁目１７</value>
+				</Data>
+				<Data name='Food specialty'>
+					<value>Asian Restaurant</value>
+				</Data>
+				<Data name='Marker icon'>
+					<value>small_blue</value>
+				</Data>
+				<Data name='Customers'>
+					<value>686</value>
+				</Data>
+				<Data name='Revenue'>
+					<value>686</value>
+				</Data>
+				<Data name='Patrons'>
+					<value>7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.757662,35.695101,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

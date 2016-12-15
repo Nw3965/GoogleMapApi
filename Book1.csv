@@ -1,0 +1,100 @@
+Latitude,Longitude,Name,Description,Food specialty,Marker icon,Customers,Revenue,Patrons
+139.71153,35.667982,‚Æ‚ñ‚©‚Â‚Ü‚¢ò,§150-0001@“Œ‹“sa’J‹æ_‹{‘O‚S’š–Ú‚W|‚T,Japanese Restaurant,small_red,675,675,2
+139.797472,35.710969,_’Jƒo[,§111-0032@“Œ‹“s‘ä“Œ‹æó‘‚P’š–Ú‚P|‚P,Western cuisine,small_green,241,241,3
+139.698653,35.695586,–Ë‰®•‘ Vh–{“X,§160-0023@“Œ‹“sVh‹æ¼Vh‚V’š–Ú‚Q|‚U,Ramen,small_yellow,675,675,45
+139.770825,35.672114,ƒAƒ“ƒWƒFƒŠ[ƒi,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚R’š–Ú‚Q|‚P ,Western cuisine,small_green,111,111,5
+139.766647,35.675539,‚Â‚Î‚ß‚â,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚P’š–Ú‚Q|‚P ,Western cuisine,small_green,423,423,3
+139.775588,35.68257,‚½‚¢‚ß‚¢‚¯‚ñ,§103-0027@“Œ‹“s’†‰›‹æ“ú–{‹´‚P’š–Ú‚P‚Q|‚P‚O, Western cuisine,small_green,412,412,3
+139.666494,35.707987,Â—t’†–ì–{“X,§164-0001@“Œ‹“s’†–ì‹æ’†–ì‚T’š–Ú‚T‚W|‚P|‚Q‚O‚Q, Ramen,small_yellow,868,868,3
+139.706058,35.690843,Œj‰Ôf–ËŠ”®‰ïĞ^––L“X,§160-0022@“Œ‹“sVh‹æVh‚R’š–Ú‚V|‚Q, Ramen,small_yellow,767,767,5
+139.713229,35.645924,ƒLƒ€ƒJƒcŒb”äõ–{“X,§150-0013@“Œ‹“sa’J‹æŒb”äõ‚S’š–Ú‚X|‚T|‚P‚O‚T, Japanese Restaurant,small_red,454,454,23
+139.74232,35.700647,‹I‚Ì‘P,§162-0825@“Œ‹“sVh‹æ_Šyâ‚P’š–Ú‚P‚Q|‚P ,Japanese Restaurant,small_red,565,565,12
+139.716144,35.661166,ƒuƒ‹[ƒm[ƒg“Œ‹,§107-0062@“Œ‹“s`‹æ“ìÂR‚U’š–Ú‚R|‚P‚U ,Japanese Restaurant,small_red,566,566,3
+139.786632,35.68232,ƒƒCƒ„ƒ‹ƒp[ƒNƒzƒeƒ‹,§103-0014@“Œ‹“s’†‰›‹æ“ú–{‹´ŠaŠk’¬‚Q’š–Ú‚P,Japanese Restaurant,small_red,544,544,3
+139.257253,35.615967,‚¤‚©‚¢’¹R,§193-0846@“Œ‹“s”ª‰¤qs“ìóì’¬‚R‚S‚Q‚U,Japanese Restaurant,small_red,855,855,1
+139.706421,35.655631,R“ª‰Îa’J“X,§150-0002@“Œ‹“sa’J‹æa’J‚R’š–Ú‚P‚R|‚V, Ramen,small_yellow,678,678,1
+139.78291,35.684977,‹Ê‚Ğ‚Å,§103-0013@“Œ‹“s’†‰›‹æ“ú–{‹´lŒ`’¬‚P’š–Ú‚P‚V|‚P‚O, Japanese Restaurant,small_red,333,333,4
+139.703411,35.690788,“V‚Õ‚çVh‚Â‚È”ª^‘–{“X,§160-0022@“Œ‹“sVh‹æVh‚R’š–Ú‚R‚P|‚W, Japanese Restaurant,small_red,553,553,23
+139.712067,35.64986,‹ã\‹ã‚Æ‚ñ‚±‚Âƒ‰[ƒƒ“,§150-0012@“Œ‹“sa’J‹æL”ö‚P’š–Ú‚P|‚R‚U ,Ramen,small_yellow,444,444,2
+139.73881,35.691642,‹ã’i”Á”µsƒ–’J–{“X,§102-0074@“Œ‹“sç‘ã“c‹æ‹ã’i“ì‚S’š–Ú‚V|‚P‚U ,Ramen,small_yellow,975,975,45
+139.703559,35.669768,‹ãB‚¶‚á‚ñ‚ª‚çŒ´h“X,§150-0001@“Œ‹“sa’J‹æ_‹{‘O‚P’š–Ú‚P‚R|‚Q‚P, Ramen,small_yellow,455,455,4
+139.767216,35.674052,ƒLƒ‹ƒtƒFƒ{ƒ“‹âÀ,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚Q’š–Ú‚T|‚S ,Western cuisine,small_green,444,444,3
+139.766467,35.672307,ƒ}ƒŠƒA[ƒWƒ…EƒtƒŒ[ƒ‹‹âÀ–{“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚T’š–Ú‚U|‚U, Western cuisine,small_green,342,342,3
+139.702186,35.691857,Š”®‰ïĞ’†‘º‰®–{“X,§160-0022@“Œ‹“sVh‹æVh‚R’š–Ú‚Q‚U|‚P‚R,Western cuisine,small_green,333,333,3
+139.699368,35.64849,ƒJƒtƒFEƒ~ƒPƒ‰ƒ“ƒWƒFƒ,§150-0033@“Œ‹“sa’J‹æ‰Šy’¬‚Q‚X|‚R ,Western cuisine,small_green,223,223,3
+139.699063,35.642918,¹—ÑŠÙ,§153-0051@“Œ‹“s–Ú•‹æã–Ú•‚Q’š–Ú‚U|‚S ,Western cuisine,small_green,222,222,5
+139.696869,35.659039,ŠìŠy,§150-0043@“Œ‹“sa’J‹æ“¹Œºâ‚Q’š–Ú‚P‚V|‚U ,Ramen,small_yellow,998,998,5
+139.726186,35.625902,LBsêŒÜ”½“c“X,§141-0022@“Œ‹“s•iì‹æ“ŒŒÜ”½“c‚P’š–Ú‚Q‚P|‚P‚O, Chinase Restaurant,small_purple,342,342,6
+139.747828,35.66663,ŒÕƒm–å‚æ‚©‚ë‚¤,§105-0001@“Œ‹“s`‹æŒÕƒm–å‚R’š–Ú‚W|‚Q ,Ramen,small_yellow,421,421,4
+139.723342,35.624409,“V‰ºˆê•i^ŒÜ”½“c“X,§141-0031@“Œ‹“s•iì‹æ¼ŒÜ”½“c‚P’š–Ú‚P‚P|‚X|‚a,Ramen,small_yellow,453,453,3
+139.760848,35.673219,ƒRƒJƒŒƒXƒgƒ‰ƒ“—LŠy’¬,§100-0006@“Œ‹“sç‘ã“c‹æ—LŠy’¬‚P’š–Ú‚P‚P|‚P ,Asian Restaurant,small_blue,12,12,2
+139.764999,35.670777,‹âÀƒ‰ƒCƒIƒ“‚f‚h‚m‚y‚`‚o‚k‚`‚b‚d“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚T’š–Ú‚W|‚P|‚a‚Q‚e ,Western cuisine,small_green,453,453,34
+139.695239,35.693024,ƒnƒVƒ„ƒXƒpƒQƒbƒeƒBVh–ì‘ºƒrƒ‹“X,§163-0590@“Œ‹“sVh‹æ¼Vh‚P’š–Ú‚Q‚U|‚Q|‚Q‚P‚X‚a ,Western cuisine,small_green,312,312,5
+139.700303,35.686359,¬“c‹}ƒzƒeƒ‹ƒZƒ“ƒ`ƒ…ƒŠ[ƒTƒUƒ“ƒ^ƒ[,§151-0053@“Œ‹“sa’J‹æ‘ãX–Ø‚Q’š–Ú‚Q|‚P ,Western cuisine,small_green,534,534,3
+139.668841,35.608288,ƒ‚ƒ“ƒuƒ‰ƒ“,§152-0035@“Œ‹“s–Ú•‹æ©—R‚ª‹u‚P’š–Ú‚Q‚X|‚R ,Western cuisine,small_green,21,21,3
+139.666475,35.612721,ƒ‚ƒ“ƒTƒ“ƒNƒŒ[ƒ‹,§152-0035@“Œ‹“s–Ú•‹æ©—R‚ª‹u‚Q’š–Ú‚Q‚Q|‚S ,Western cuisine,small_green,53,53,5
+139.767193,35.670124,ƒiƒCƒ‹ƒŒƒXƒgƒ‰ƒ“,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚S’š–Ú‚P‚O|‚V ,Asian Restaurant,small_green,241,241,3
+139.731483,35.664171,ˆê—–˜Z–{–Ø‘å]ŒËü‰wã“X,§106-0032@“Œ‹“s`‹æ˜Z–{–Ø‚S’š–Ú‚P‚P|‚P‚P ,Ramen,small_yellow,35,35,3
+139.704406,35.659975,ƒ‰ƒPƒ‹^‹{‰vâ“X,§150-0002@“Œ‹“sa’J‹æa’J‚P’š–Ú‚P‚Q|‚P‚Q ,Western cuisine,small_green,21,21,3
+139.702126,35.694396,‚Ç‚¤‚Æ‚ñ‚Ú‚è_À‰Ì•‘Šê’¬“X,§160-0021@“Œ‹“sVh‹æ‰Ì•‘Šê’¬‚P’š–Ú‚P‚S|‚P ,Ramen,small_yellow,32,32,3
+139.768596,35.67515,‹›‚âˆê’š^‹âÀ–{“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚P’š–Ú‚Q|‚R ,Japanese Restaurant,small_red,213,213,5
+139.735399,35.676627,‚µ‚ë‚½‚¦,§107-0052@“Œ‹“s`‹æÔâ‚S’š–Ú‚P|‚S ,Western cuisine,small_green,352,352,5
+139.7137,35.665076,ƒLƒ‹EƒtƒFEƒ{ƒ“ÂR,§107-0062@“Œ‹“s`‹æ“ìÂR‚R’š–Ú‚P‚W|‚T,Western cuisine,small_green,356,356,5
+139.728281,35.660815,‚s‚n‚q‚`‚x‚`‚b‚`‚e‚d˜Z–{–Øƒqƒ‹ƒY“X,§106-0032@“Œ‹“s`‹æ˜Z–{–Ø‚U’š–Ú‚P‚Q|‚Q,Japanese Restaurant,small_red,322,322,5
+139.693664,35.691329,ƒVƒYƒ‰[^VhOˆäƒrƒ‹“X,§163-0402@“Œ‹“sVh‹æ¼Vh‚Q’š–Ú‚P|‚P,Western cuisine,small_yellow,31,31,5
+139.702115,35.693212,”‘½“V_,§160-0023@“Œ‹“sVh‹æ¼Vh‚V’š–Ú‚P‚T|‚P‚V,Ramen,small_yellow,21,21,5
+139.744525,35.698917,Â—t”Ñ“c‹´“X,§102-0071@“Œ‹“sç‘ã“c‹æ•xmŒ©‚Q’š–Ú‚P‚Q|‚P‚U|‚P‚O‚U,Ramen,small_yellow,221,221,5
+139.770678,35.700802,‹ãB‚¶‚á‚ñ‚ª‚ç^H—tŒ´–{“X,§101-0021@“Œ‹“sç‘ã“c‹æŠO_“c‚R’š–Ú‚P‚P|‚U,Ramen,small_yellow,223,223,5
+139.765281,35.671925,ƒŒƒJƒ“,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚Q’š–Ú‚S|‚P‚Q,Western cuisine,small_green,231,231,5
+139.793827,35.712938,ƒˆƒVƒJƒ~,§111-0032@“Œ‹“s‘ä“Œ‹æó‘‚P’š–Ú‚S‚P|‚S,Western cuisine,small_green,231,231,5
+139.713646,35.743326,ƒ~ƒ‹ƒL[ƒEƒGƒC“ŒŒû“X,§170-0013@“Œ‹“s–L“‡‹æ“Œ’r‘Ü‚P’š–Ú‚P‚Q|‚W,Western cuisine,small_green,232,232,5
+139.76127,35.668468,‹v•º‰q,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚W’š–Ú‚V|‚U,Japanese Restaurant,small_red,555,555,6
+139.743667,35.662109,‰ª”W‰hòŒÕ‚Ì–å–{“X,§105-0001@“Œ‹“s`‹æŒÕƒm–å‚R’š–Ú‚W|‚Q‚S,Japanese Restaurant,small_red,546,546,6
+139.705272,35.690877,ƒeƒBƒLƒeƒBƒLVh“X,§160-0022@“Œ‹“sVh‹æVh‚R’š–Ú‚S|‚W,Western cuisine,small_green,56,56,6
+139.795585,35.712745,‘å•‰Æ“Vên—…,§111-0032@“Œ‹“s‘ä“Œ‹æó‘‚P’š–Ú‚R‚P|‚X,Japanese Restaurant,small_red,464,464,66
+139.622389,35.705057,t–Ø‰®‰¬ŒE–{“X,§167-0043@“Œ‹“s™•À‹æã‰¬‚P’š–Ú‚S|‚U,Ramen,small_yellow,765,765,5
+139.762605,35.664949,“C‘×–LƒJƒŒƒbƒ^¬—¯“X,§105-0021@“Œ‹“s`‹æ“ŒV‹´‚P’š–Ú‚W|‚Q,Chinase Restaurant,small_purple,657,657,5
+139.706101,35.646083,ƒAƒ}ƒ|[ƒ‰Œb”äõ“X,§150-0022@“Œ‹“sa’J‹æŒb”äõ“ì‚R’š–Ú‚P|‚Q‚S,Western cuisine,small_green,675,675,56
+139.770825,35.672114,—ùŠ¢’à‘–{“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚R’š–Ú‚T|‚P‚U,Western cuisine,small_green,57,57,6
+139.714894,35.66523,ƒNƒAEƒAƒCƒi,§107-0062@“Œ‹“s`‹æ“ìÂR‚T’š–Ú‚P‚O|‚Q‚P,Western cuisine,small_green,34,34,6
+139.721994,35.56007,ƒj[ƒnƒI,§144-0052@“Œ‹“s‘å“c‹æŠ—“c‚S’š–Ú‚Q‚T|‚V,Chinase Restaurant,small_purple,435,435,6
+139.707669,35.646038,ƒ`ƒƒƒ‚ƒ,§150-0022@“Œ‹“sa’J‹æŒb”äõ“ì‚P’š–Ú‚Q|‚W,Western cuisine,small_green,343,343,6
+139.772605,35.627055,ƒ|ƒ€‚Ì÷ƒAƒNƒAƒVƒeƒB‚¨‘äê“X,§135-0091@“Œ‹“s`‹æ‘äê‚P’š–Ú‚V|‚P|‚q‚T‚P‚Q,Western cuisine,small_green,564,564,6
+139.667333,35.659058,éLq‚Ì‰¤«^‰º–k‘ò“X,§155-0032@“Œ‹“s¢“c’J‹æ‘ã‘ò‚T’š–Ú‚R‚U|‚P‚U,Chinase Restaurant,small_purple,423,423,6
+139.668332,35.663365,—LŒÀ‰ïĞƒ}ƒWƒbƒNƒXƒpƒCƒX,§155-0031 “Œ‹“s¢“c’J‹æ–k‘ò‚P’š–Ú‚S‚O|‚P‚T,Asian Restaurant,small_green,296,296,6
+139.6954,35.65983,a’JO\ŒÜ’i‰®,§150-0044@“Œ‹“sa’J‹æ‰~R’¬‚P|‚P,Japanese Restaurant,small_red,672,672,6
+139.711722,35.727395,Œõ–Ë’r‘Ü“ŒŒû–{“X,§171-0022@“Œ‹“s–L“‡‹æ“ì’r‘Ü‚P’š–Ú‚P‚W|‚Q‚Q,Ramen,small_yellow,342,342,6
+139.579158,35.703922,¬‚´‚³,§180-0004 “Œ‹“s•‘ –ìs‹gË›–{’¬‚P’š–Ú‚P-‚P-‚W,Japanese Restaurant,small_red,874,874,6
+139.644004,35.67626,‘åŸŒ¬,§168-0063@“Œ‹“s™•À‹æ˜aò‚R’š–Ú‚T|‚R,Ramen,small_yellow,146,146,6
+139.713316,35.641948,ç–[Œb”äõƒK[ƒfƒ“ƒvƒŒƒCƒXx“X,§150-6038@“Œ‹“sa’J‹æŒb”äõ‚S’š–Ú‚Q‚O|‚R‚O,Japanese Restaurant,small_red,373,373,6
+139.699048,35.658244,ƒrƒA[ƒhƒpƒp‚Ìì‚è‚½‚ÄH–[^a’J“Œ‹}“Œ‰¡“X,§150-0043@“Œ‹“sa’J‹æ“¹Œºâ‚P’š–Ú‚P‚Q|‚R ,Western cuisine,small_green,179,179,6
+139.669819,35.611385,©—R‚ª‹uƒ[ƒ‹‰®,§152-0035@“Œ‹“s–Ú•‹æ©—R‚ª‹u‚P’š–Ú‚Q‚R|‚Q,Western cuisine,small_green,368,368,6
+139.575332,35.703644,ƒ”ƒBƒŒƒbƒWƒ”ƒ@ƒ“ƒK[ƒhƒ_ƒCƒi[‹gË›“X,§180-0004@“Œ‹“s•‘ –ìs‹gË›–{’¬‚Q’š–Ú‚Q‚O|‚P,Western cuisine,small_green,854,854,7
+139.774334,35.68268,ƒƒ]ƒ“ƒJƒCƒU[“ú–{‹´“X,§103-0027@“Œ‹“s’†‰›‹æ“ú–{‹´‚P’š–Ú‚S|‚P,Western cuisine,small_green,634,634,7
+139.772285,35.698415,“÷‚Ì–œ¢^–{“X ,§101-0041@“Œ‹“sç‘ã“c‹æ_“c{“c’¬‚Q’š–Ú‚Q‚P,Western cuisine,small_green,346,346,7
+139.711304,35.664193,ƒ‰Eƒƒ]ƒ“Eƒfƒ…EƒVƒ‡ƒRƒ‰•\Q“¹“X,§107-0061@“Œ‹“s`‹æ–kÂR‚R’š–Ú‚P‚O|‚W,Western cuisine,small_green,213,213,7
+139.798492,35.712123,Š”®‰ïĞ”~‰€,§111-0032@“Œ‹“s‘ä“Œ‹æó‘‚P’š–Ú‚R‚P|‚P‚P,Japanese Restaurant,small_red,766,766,7
+139.7123,35.668746,ƒJƒtƒFƒNƒŒ[ƒvƒŠ[Eƒ‹Eƒuƒ‹ƒ^[ƒjƒ…•\Q“¹“X,§150-0001@“Œ‹“sa’J‹æ_‹{‘O‚R’š–Ú‚T|‚S,Western cuisine,small_green,345,345,7
+139.757178,35.691175,Ôâ”Ñ“X^ƒpƒŒƒXƒTƒCƒhx“X,§100-0003@“Œ‹“sç‘ã“c‹æˆêƒc‹´‚P’š–Ú‚P|‚P,Chinase Restaurant,small_purple,32,32,7
+139.768648,35.697034,—LŒÀ‰ïĞ‚â‚Ô‚»‚Î_“c–{“X,§101-0063@“Œ‹“sç‘ã“c‹æ_“c’W˜H’¬‚Q’š–Ú‚P‚O,Japanese Restaurant,small_red,97,97,32
+139.758599,35.695554,‚³‚Ú‚¤‚é,§101-0051@“Œ‹“sç‘ã“c‹æ_“c_•Û’¬‚P’š–Ú‚P‚P,Western cuisine,small_green,456,456,6
+139.761,35.68474,ƒpƒŒƒXƒzƒeƒ‹“Œ‹,§100-0005@“Œ‹“sç‘ã“c‹æŠÛ‚Ì“à‚P’š–Ú‚P|‚P,Japanese Restaurant,small_red,658,658,6
+139.719143,35.623903,‚Æ‚ñ‹à,§141-0031@“Œ‹“s•iì‹æ¼ŒÜ”½“c‚V’š–Ú‚T|‚R,Japanese Restaurant,small_red,898,898,6
+139.708071,35.666634,ƒoƒ“ƒu[,§150-0001@“Œ‹“sa’J‹æ_‹{‘O‚T’š–Ú‚W|‚W,Western cuisine,small_green,547,547,6
+139.713197,35.648664,ˆê•—“°Œb”äõ“X,§150-0012@“Œ‹“sa’J‹æL”ö‚P’š–Ú‚R|‚P‚Q|‚P‚O‚Q,Ramen,small_yellow,686,686,6
+139.710514,35.731408,“Ôƒ`ƒ“,§171-0022@“Œ‹“s–L“‡‹æ“ì’r‘Ü‚Q’š–Ú‚Q‚U|‚Q,Ramen,small_yellow,547,547,6
+139.333755,35.6544,ˆë”­ƒ‰[ƒƒ“,§192-0903@“Œ‹“s”ª‰¤qs–œ’¬‚P‚X|‚P,Ramen,small_yellow,879,879,6
+139.424837,35.623405,‹‰¤ƒvƒ‰ƒUƒzƒeƒ‹‘½–€,§206-0033@“Œ‹“s‘½–€s—‡‚P’š–Ú‚S‚R,Japanese Restaurant,small_red,756,756,6
+139.711835,35.645344,ƒ‚ƒ“ƒX[ƒ“ƒJƒtƒFŒb”äõ,§150-0013@“Œ‹“sa’J‹æŒb”äõ‚S’š–Ú‚S|‚U,Asian Restaurant,small_green,689,689,6
+139.590717,35.709005,ƒpƒeƒBƒXƒŠ[EƒAƒeƒXƒEƒFƒC,§180-0002@“Œ‹“s•‘ –ìs‹gË›“Œ’¬‚R’š–Ú‚W|‚W,Western cuisine,small_green,867,867,6
+139.763781,35.680696,‚j‚t‚`E‚`‚h‚m‚`ŠÛƒrƒ‹“X,§100-6305@“Œ‹“sç‘ã“c‹æŠÛ‚Ì“à‚Q’š–Ú‚S|‚P ,Western cuisine,small_green,686,686,6
+139.706281,35.667505,‚³‚Â‚Ü‚âŒ´h–{“X,§150-0001@“Œ‹“sa’J‹æ_‹{‘O‚U’š–Ú‚P|‚U,Japanese Restaurant,small_red,998,998,6
+139.769106,35.673572,‰ß–å‹âÀ“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚P’š–Ú‚P‚O|‚U,Chinase Restaurant,small_purple,354,354,6
+139.764501,35.671322,‹âÀƒ}ƒlƒPƒ“,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚T’š–Ú‚V|‚P‚X,Western cuisine,small_green,657,657,4
+139.714229,35.633634,‚Æ‚ñ‚«,§153-0064@“Œ‹“s–Ú•‹æ‰º–Ú•‚P’š–Ú‚P|‚Q,Japanese Restaurant,small_red,325,325,7
+139.708198,35.65754,ƒJƒvƒŠƒ`ƒ‡[ƒUa’J–{“X,§150-0011@“Œ‹“sa’J‹æ“Œ‚P’š–Ú‚R|‚P,Western cuisine,small_green,685,685,7
+139.768183,35.67332,Š”®‰ïĞƒAƒ“ƒŠEƒVƒƒƒ‹ƒpƒ“ƒeƒBƒG‹âÀ–{“X,§104-0061@“Œ‹“s’†‰›‹æ‹âÀ‚Q’š–Ú‚W|‚Q‚O,Western cuisine,small_green,789,789,7
+139.667464,35.660381,ƒ‚ƒiƒŒƒR[ƒh,§155-0031@“Œ‹“s¢“c’J‹æ–k‘ò‚Q’š–Ú‚P‚R|‚T,Western cuisine,small_green,980,980,7
+139.724891,35.625547,“yŠÔ“yŠÔEŒÜ”½“c“ŒŒû“X,§141-0022@“Œ‹“s•iì‹æ“ŒŒÜ”½“c‚Q’š–Ú‚Q|‚P‚U,Japanese Restaurant,small_red,688,688,7
+139.757662,35.695101,ƒ}ƒ“ƒ_ƒ‰,§101-0051@“Œ‹“sç‘ã“c‹æ_“c_•Û’¬‚Q’š–Ú‚P‚V,Asian Restaurant,small_yellow,686,686,7
+139.705369,35.732412,‚ç[‚ß‚ñ‘å ’r‘Ü“X,§171-0014 “Œ‹“s–L“‡‹æ’r‘Ü‚Q?‚P‚X?‚R “V@ƒrƒ‹,Ramen,small_yellow,688,688,1

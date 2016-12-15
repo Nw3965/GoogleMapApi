@@ -1,0 +1,44 @@
+<!DOCTYPE html >
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title>index</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link type= "text/css"href="/css/style.css" rel"stylesheet"/>
+<script src = "http://maps.google.com/maps?file=app&v=2&sensor=false&key= "</script>
+<script type="text/javascript">
+<!--
+var map = null;
+
+function initialize(){
+if (GBrowserIsCompatible(){
+map = new GMap2(document.getElementById("map_canvas"));
+map.addControl(new GSmallMapControl());
+var lat = 35.690625;
+var lng = 139.699788;
+var point = new GLatLng(lat lng);
+map.setCenter(point,12);
+var request = GXmlHttp.create();
+request.("GET,"mydata.txt",true);
+request.onreadystatechange = function(){
+if (request.readyState ==4 ){
+var jason = eval("(+request.responseText+")");
+for(var i = 0; i <json.datas.lenght; i++){
+data = json.datas[i];
+var point = new GLatLng(data.lat.data.lag);
+var marker = new GMaker(point,{title:data.title});
+map.add0verlay(maker);
+}
+}
+}
+request.send(null);
+}
+}
+//--->
+</script>
+</head>
+<body onload ="initialize();"onunload="GUnload()">
+<div id ="map_canvas" style="width: 400px; height: 400px"></div>
+</body>
+</html>
